@@ -1,0 +1,72 @@
+ [
+ 	{ 
+ 		"name": "A & M Record",
+   		"founded": "1887",
+   		"genre": "California", 
+   		"artists": [
+	   		{
+	   			"artist":{
+		   			"hometown":"Ontario",
+		   			"name":"Bryan Adams",
+                    "albumns":[
+                        {
+                            "album":{
+                               "releaseDate":"2010",
+                               "title":"One World, One Fame"
+                            }
+                        }
+                    ]
+                }
+	   		},
+	   		{
+	   			"artist":{
+		   			"hometown":"Tennessee",
+		   			"name":"Amy Grant",
+                    "albumns":[
+                        {
+                            "album":{
+                               "releaseDate":"2008",
+                               "title":"Friends & Legends"
+                            }
+                        }
+                    ]
+	   			}
+	   		}
+   		]
+   	},
+   	{ 
+ 		"name": "Epic Records",
+   		"founded": "1900",
+   		"genre": "New York", 
+   		"artists": [
+	   		{
+	   			"artist":{
+		   			"hometown":"Indiana",
+		   			"name":"Michael Jackson",
+                    "albumns":[
+                        {
+                            "album":{
+                               "releaseDate":"1989",
+                               "title":"Thriller"
+                            }
+                        }
+                    ]
+	   			}
+	   		},
+	   		{
+	   			"artist":{
+		   			"hometown":"Ontario",
+		   			"name":"Avril Lavigne",
+                    "albumns":[
+                        {
+                            "album":{
+                               "releaseDate":"2000",
+                               "title":"Let Go"
+                            }
+                        }
+                    ]
+	   			}
+	   		}
+   		]
+   	}
+]
